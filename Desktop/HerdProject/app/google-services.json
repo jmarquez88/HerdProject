@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571144750908",
+    "firebase_url": "https://herdproject-91151.firebaseio.com",
+    "project_id": "herdproject-91151",
+    "storage_bucket": "herdproject-91151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571144750908:android:ffb666fab1b986d4",
+        "android_client_info": {
+          "package_name": "com.example.a7510.herdproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571144750908-0gspdlot9ch81q9o6ttg7bvub8jnug1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a7510.herdproject",
+            "certificate_hash": "1e8a25b2d3b03cf64ac83bd37d4cb1221ec4d9ad"
+          }
+        },
+        {
+          "client_id": "571144750908-ijqihkdo2hv1rl3th169i5m4d0775ben.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtBz_Z6smWMCMGHhf8rdc4YZGSMa_XiqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571144750908-ijqihkdo2hv1rl3th169i5m4d0775ben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

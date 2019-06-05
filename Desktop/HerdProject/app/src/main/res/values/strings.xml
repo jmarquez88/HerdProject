@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HerdProject</string>
+    <string name="slogan">Have you Herd?! Herd allows you to take studying to the next level by allowing you to create or find study groups wherever you are, whenever you want9!</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
